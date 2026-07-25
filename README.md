@@ -37,7 +37,7 @@ Instead of relying on open-ended probabilistic token generation, our pipeline pa
       <tr>
         <td width="30%" align="center" valign="middle" style="background-color: #ffffff; padding: 20px;">
           <!-- Custom Shield Badge -->
-          <img src="https://shields.io" alt="Md_Abul_Hossain_IBM_SkillsBuild_Badge.jpg" style="max-width: 100%;"><br><br>
+          <img src="https://shields.io" alt="IBM SkillsBuild Badge" style="max-width: 100%;"><br><br>
           <code style="font-size: 11px; background-color: #e0e0e0; padding: 4px 8px; border-radius: 4px; color: #333333;">ALM-COURSE_4076311</code>
         </td>
         <td width="70%" valign="top" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.6; color: #161616; padding: 15px;">
