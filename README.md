@@ -1,5 +1,43 @@
 # vane-guard-orchestrator
 Building enterprise-grade solutions that are secure, scalable, and sovereign. Technology should empower businesses, not constrain them. AI should be reliable, explainable, and hallucination-free.  Complete End-to-End RAG Pipeline. An intelligent orchestration system with a complete RAG pipeline deployed as a IBM Granite model variant.
+## 📡 Quick Access Submission Hub (For Challenge Judges)
+
+<div align="center">
+  <table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; border: 1px solid #e0e0e0; width: 100%; text-align: left; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;">
+    <thead>
+      <tr style="background-color: #f1f3f5;">
+        <th width="35%">Verification Target Component</th>
+        <th width="65%">Direct Public Production Link</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>🌐 Live Sovereign Ingress Portal</strong></td>
+        <td><a href="https://vercel.app" target="_blank">vane-guard-sovereign-framework.vercel.app</a></td>
+      </tr>
+      <tr>
+        <td><strong>🎬 3-Minute Video Presentation</strong></td>
+        <td><a href="https://youtu.be/Wtuj7EUhGYM?si=1d1JcuApHEj_qZae" target="_blank">YouTube Video Demonstration Guide</a></td>
+      </tr>
+      <tr>
+        <td><strong>🏅 IBM SkillsBuild Certificate</strong></td>
+        <td><a href="https://shorturl.at" target="_blank">Course ALM-COURSE_4076311 Verification</a></td>
+      </tr>
+      <tr>
+        <td><strong>📚 Academic EU Registration</strong></td>
+        <td><a href="https://doi.org/10.5281/zenodo.21303273" target="_blank">Official European Zenodo DOI Record</a></td>
+      </tr>
+      <tr>
+        <td><strong>📋 Legal: Terms of Service</strong></td>
+        <td><a href="https://vane-guard-sovereign-framework.vercel.app/terms.html" target="_blank">View Production terms.html</a></td>
+      </tr>
+      <tr>
+        <td><strong>🔐 Legal: Privacy Infrastructure</strong></td>
+        <td><a href="https://vane-guard-sovereign-framework.vercel.app/privacy.html" target="_blank">View Production privacy.html</a></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ## 🚀 Enterprise Core: Deterministic RAG Pipeline & IBM Granite Alignment
 
