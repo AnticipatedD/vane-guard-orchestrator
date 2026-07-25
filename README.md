@@ -37,7 +37,7 @@ Instead of relying on open-ended probabilistic token generation, our pipeline pa
       <tr>
         <td width="30%" align="center" valign="middle" style="background-color: #ffffff; padding: 20px;">
           <!-- Custom Shield Badge -->
-          <img src="https://shields.io" alt="IBM SkillsBuild Badge" style="max-width: 100%;"><br><br>
+          <img src="https://shields.io" alt="Md_Abul_Hossain_IBM_SkillsBuild_Badge.jpg" style="max-width: 100%;"><br><br>
           <code style="font-size: 11px; background-color: #e0e0e0; padding: 4px 8px; border-radius: 4px; color: #333333;">ALM-COURSE_4076311</code>
         </td>
         <td width="70%" valign="top" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.6; color: #161616; padding: 15px;">
@@ -50,7 +50,7 @@ Instead of relying on open-ended probabilistic token generation, our pipeline pa
             <li><strong>Curriculum:</strong> How IBM Bob and AI Tools Are Changing the Way Solutions Are Built</li>
             <li><strong>Verification Timestamp:</strong> 25 July 2026 (GMT)</li>
           </ul>
-          <a href="https://shorturl.at/gvtrL" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #24292e; color: #ffffff; text-decoration: none; padding: 8px 16px; font-size: 12px; font-weight: bold; border-radius: 6px; box-shadow: 0 1px 3px rgba(0,0,0,0.12);">
+          <a href="https://skills.yourlearning.ibm.com/certificate/share/ba988b1fddewogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICI4MzUyOTEy" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #24292e; color: #ffffff; text-decoration: none; padding: 8px 16px; font-size: 12px; font-weight: bold; border-radius: 6px; box-shadow: 0 1px 3px rgba(0,0,0,0.12);">
             👁️ View Public Verification Link
           </a>
         </td>
